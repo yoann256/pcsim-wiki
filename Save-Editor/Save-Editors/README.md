@@ -2,8 +2,8 @@
 This page will cover 2 save editors and their functions.
 
 ## 1st - The better one
-Discord link: https://discord.gg/ktHynCVz
-GitHub link: https://github.com/BeboKhouja/PC-Simulator-Save-Editor (Java)
+Discord link: https://discord.gg/ktHynCVz \
+GitHub link: https://github.com/BeboKhouja/PC-Simulator-Save-Editor (Java)\
 <sup>**Other downloads are available on the Discord**</sup>
 
 Features:
@@ -17,7 +17,13 @@ Features:
 
 Available versions:
 - [X] Android
-- [ ] Windows
-- [ ] Windows (UWP)
+- [X] Windows
+- [X] Windows (UWP)
 - [ ] Linux
-- [ ] Linux (Java)
+- [X] Linux (Java)
+- [X] Web (worst version)
+
+## 2nd - The *worse* one
+Discord Server: *Unknown*\
+GitHub Link: *Unknown*\
+Website:
