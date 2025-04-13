@@ -3,6 +3,7 @@ This wifi is unofficial.
 
 ## Table of contents
 
+<!--
 ```
 ╔
 ║
@@ -11,3 +12,4 @@ This wifi is unofficial.
 ║          ║
 ║          ╚ Signing saves
 ```
+-->
