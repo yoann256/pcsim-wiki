@@ -11,7 +11,7 @@ It was discovered whem a Discord member of the PC Simulator Discord shared a sav
 In this update, the Flash Drive did literally nothing, as it probably wasn't implemented yet.
 
 ### 1.8.0/1.8.1 (iOS and iPadOS)
-In this update, the Flash Drive is used as a storage media, where you can install PCOS in it using a [Save Editor](../../../Save-Editor/Save-Editors/). Although it was originally made to store files and the PCOS installer.\
+In this update, the Flash Drive is used as a storage media, where you can install PCOS in it using a [Save Editor](../../Save-Editor/Save-Editors/). Although it was originally made to store files and the PCOS installer.\
 There's two varients of the Flash Drive:
 - The normal Flash Drive
 - The PCOS Flash Drive
