@@ -7,8 +7,8 @@ The website as three states *(if you count uploading the image)*:
 
 ## Screenshots:
 1st state:\
-*Insert image here*\
+![1](1.png)\
 2nd state:\
-*Insert image here*\
+![2](2.png)\
 3rd state:\
-*Insert image here*
+![3](3.png)
