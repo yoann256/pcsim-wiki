@@ -19,4 +19,4 @@ This wifi is unofficial.
     - [Signing Saves](Save-Editor/Signing-Saves/)
     - [Save Editors](Save-Editor/Save-Editors/)
   - [Websites](#):
-    - [www.printexpert.com](/Websites/www.printexpert.com/)
+    - [www.printexpert.com](Websites/www.printexpert.com/)
