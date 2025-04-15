@@ -1,5 +1,5 @@
 # PC Simulator Wiki
-This wifi is unofficial.
+This wiki is unofficial.
 
 ## Table of contents
 
