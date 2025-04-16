@@ -26,3 +26,6 @@ This wiki is unofficial.
     - [Save Editors](Save-Editor/Save-Editors/)
   - [Websites](#):
     - [www.printexpert.com](Websites/www.printexpert.com/)
+
+## Credits
+This wiki is inspired by another [unofficial PC Simulator wiki](https://pcsimulator.miraheze.org/wiki/Main_Page).
