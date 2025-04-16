@@ -31,4 +31,4 @@ This wiki is unofficial.
 This wiki is inspired by another [unofficial PC Simulator wiki](https://pcsimulator.miraheze.org/wiki/Main_Page).
 
 ## Todo
-- [ ] #2
+- [ ] https://github.com/RTX3080Ti-Official/pcsim-wiki/issues/2
