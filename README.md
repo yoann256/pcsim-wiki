@@ -29,3 +29,6 @@ This wiki is unofficial.
 
 ## Credits
 This wiki is inspired by another [unofficial PC Simulator wiki](https://pcsimulator.miraheze.org/wiki/Main_Page).
+
+## Todo
+- [ ] #2
