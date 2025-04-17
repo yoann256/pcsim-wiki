@@ -1,3 +1,8 @@
+---
+layout: default
+title: Flash Drive
+---
+
 # Flash Drive
 This page will talk about the Flash Drive.
 
