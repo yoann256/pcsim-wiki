@@ -4,10 +4,22 @@
   <meta charset="UTF-8">
   <title>{{ page.title }}</title>
 
+  <style>
+    * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: system-ui, sans-serif;
+  line-height: 1.6;
+  padding: 1rem;
+}
+  </style>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.5.0/github-markdown.min.css">
 </head>
-<body>
-  <main class="markdown-body">
+<body class="markdown-body">
+  <main>
     {{ content }}
   </main>
 
