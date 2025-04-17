@@ -1,3 +1,8 @@
+---
+layout: default
+title: Cube
+---
+
 # Cube
 ***Note**: This page might be movee when doing the rewriting.*
 
