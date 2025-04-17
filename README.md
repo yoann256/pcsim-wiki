@@ -20,7 +20,8 @@ This wiki is unofficial.
 - [Main Page](#):
   - [Features](Features/):
     - [1.8.0](Features/1.8.0/):
-      - [Flash Drive](Features/1.8.0/Flash-Drive)
+      - [Flash Drive](Features/1.8.0/Flash-Drive/)
+      - [Projector](Features/1.8.0/Projector/)
   - [Save Editor](#):
     - [Signing Saves](Save-Editor/Signing-Saves/)
     - [Save Editors](Save-Editor/Save-Editors/)
