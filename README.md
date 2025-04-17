@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 # PC Simulator Wiki
 This wiki is unofficial.
 
