@@ -3,6 +3,7 @@ description: An unofficial Wiki about PC Simulator.
 theme: null  # disables the default theme
 markdown: kramdown
 permalink: pretty
+baseurl: ""
 
 # If using a remote theme (optional)
 # remote_theme: your-username/your-theme-repo
