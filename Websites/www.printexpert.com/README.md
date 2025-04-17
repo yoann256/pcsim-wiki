@@ -1,3 +1,8 @@
+---
+layout: default
+title: Print Expert
+---
+
 # Print Expert
 Print Expert (www.printexpert.com) is a website in PC Simulator that allows you to print banners that you upload.\
 The website as three states *(if you count uploading the image)*:
