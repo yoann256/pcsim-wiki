@@ -1,3 +1,8 @@
+---
+layout: default
+title: Signing Saves
+---
+
 # Signing Saves
 
 ## What is signing?
