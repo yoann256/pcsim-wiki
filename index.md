@@ -24,6 +24,8 @@ This wiki is unofficial.
 
 - [Main Page](#):
   - [Features](Features/):
+    - [1.7.1](Features/1.7.1/):
+      - [Cube](Features/1.7.1/Cube/)
     - [1.8.0](Features/1.8.0/):
       - [Flash Drive](Features/1.8.0/Flash-Drive/)
       - [Projector](Features/1.8.0/Projector/)
