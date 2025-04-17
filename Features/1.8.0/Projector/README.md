@@ -1,3 +1,8 @@
+---
+layout: default
+title: Projector
+---
+
 # Projector
 This page will talk about the Projector.\
 ***Note**: This page might be movee when doing the rewriting.*
