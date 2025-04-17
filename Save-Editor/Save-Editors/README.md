@@ -1,3 +1,8 @@
+---
+layout: default
+title: Save Editors
+---
+
 # Save Editors
 This page will cover 2 save editors and their functions.
 
