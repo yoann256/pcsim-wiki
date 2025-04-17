@@ -2,7 +2,7 @@ title: PC Simulator Wiki
 description: An unofficial Wiki about PC Simulator.
 theme: null  # disables the default theme
 markdown: kramdown
-# permalink: pretty
+permalink: pretty
 
 # If using a remote theme (optional)
 # remote_theme: your-username/your-theme-repo
