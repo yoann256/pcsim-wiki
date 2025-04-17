@@ -1,3 +1,8 @@
+---
+layout: default
+title: Websites
+---
+
 # Websites
 PC Simulator contains a lot of websites.\
 Here's a list of all websites:
